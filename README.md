@@ -1,3 +1,13 @@
+# Shmoovy
+
+_A Discord music bot that just sits there_
+
+## About
+
+Shmoovy is a Discord bot that plays music through a variety of audio providers like Youtube and Soundcloud. It is forked from [freyacodes/ukelele](https://github.com/freycodes/ukelele) and written in Kotlin.
+
+Originally, Shmoovy was a heavily-modified derivative of an old version of the Groovy bot, but this is being phased out in favor of New Shmoovy as it comes with a much more up-to-date interface with Discord. This comes with many benefits in terms of reliability and upgradability, especially since this is something I don't want to dedicate much time to.
+
 # Ukulele
 ...and his music was electric.
 
