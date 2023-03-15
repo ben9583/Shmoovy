@@ -8,6 +8,8 @@ Shmoovy is a Discord bot that plays music through a variety of audio providers l
 
 Originally, Shmoovy was a heavily-modified derivative of an old version of the Groovy bot, but this is being phased out in favor of New Shmoovy as it comes with a much more up-to-date interface with Discord. This comes with many benefits in terms of reliability and upgradability, especially since this is something I don't want to dedicate much time to.
 
+Below is the original README from ukelele. There may be some details that go out of date, but I'll try my best to include all of them here over time.
+
 # Ukulele
 ...and his music was electric.
 
