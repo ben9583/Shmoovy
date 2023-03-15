@@ -2,7 +2,7 @@
 Contributions are welcome! Below are some technical details on how to work on the project.
 
 ## Setting up your workspace
-To get started you only need JDK 11 or up. Gradle will automatically install itself.
+To get started you only need JDK 17 or up. Gradle will automatically install itself.
 
 Clone this git repository. You can then import this Gradle project into your favourite IDE. Intellij IDEA is recommended.
 
